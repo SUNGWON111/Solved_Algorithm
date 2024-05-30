@@ -12,3 +12,5 @@ function solution(s){
     if (counter.p === counter.y) return true;
     else return false;
 }
+
+// return s.toLowerCase.split('p').length === s.toLowerCase.split('y').length;
