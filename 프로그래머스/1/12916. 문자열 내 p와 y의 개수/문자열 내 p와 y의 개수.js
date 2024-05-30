@@ -13,4 +13,4 @@ function solution(s){
     else return false;
 }
 
-// return s.toLowerCase.split('p').length === s.toLowerCase.split('y').length;
+// return s.toLowerCase().split('p').length === s.toLowerCase().split('y').length;
